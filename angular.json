@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "wiki-finder"
+  "defaultProject": "wiki-finder",
+  "cli": {
+    "analytics": false
+  }
 }
